@@ -101,7 +101,8 @@ git pull origin main
 b. Menggunakan Git Clone
 
 - Buka Git Bash di lokasi folder induk Anda dengan cara klik kanan di folder induk lalu <b><i>Open Git Bash here</i></b>.
-![Clone](images/[9].png)
+
+<img src="images/[9].png" alt="Clone" width="300">
 
 - Jalankan perintah berikut:
 
