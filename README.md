@@ -10,9 +10,11 @@
 ### 1. Install Git
 - Unduh Git melalui tautan berikut: https://git-scm.com/downloads.
 
-![Git Website](.images/[1].png)
+![Git Website](images/[1].png)
 
 - Ikuti instruksi instalasi sesuai sistem operasi Anda (Windows, macOS, atau Linux).
+
+![Git Installation](images/[2].png)
 
 ### 2. Buat Akun GitHub
 - Daftar di https://github.com/join dengan mengisi informasi yang diperlukan.
@@ -25,6 +27,7 @@ git config --global user.name "(NamaPengguna)"
 ```bash
 git config --global user.email "(EmailAnda)"
 ```
+![Configuration](images/[3].png)
 - Pastikan Anda mengganti (NamaPengguna) dan (EmailAnda) dengan informasi sesuai akun GitHub Anda.
 
 ### 4. Membuat SSH Key
@@ -35,10 +38,15 @@ git config --global user.email "(EmailAnda)"
 
 a. Di GitHub, buka Settings > SSH and GPG Keys > New SSH Key. 
 
+![New SSH](images/[4].png)
+
 b. Buat SSH Key dengan menjalankan perintah berikut di Git Bash:
 ```bash
 ssh-keygen -t ed25519 -C "(EmailAnda)"
 ```
+
+![Generate Keygen](images/[5].png)
+
 Tekan Enter untuk setiap prompt (biarkan default).
 
 c. Salin SSH Key Anda dengan perintah:
