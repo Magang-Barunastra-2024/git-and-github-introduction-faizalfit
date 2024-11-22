@@ -3,9 +3,23 @@
 
 | Nama  | Division        | Sub-Division  |
 | ----- | ---------- | ---------- |
-| Name here   | ELC/PGR | Sub-div |
+| Faizal Fitrohni   | ELC | Microcontroller |
 
 ## Early Procedure
+### 1. Install Git
+- Unduh Git melalui tautan berikut: https://git-scm.com/downloads.
+- Ikuti instruksi instalasi sesuai sistem operasi Anda (Windows, macOS, atau Linux).
+
+### 2. Buat Akun GitHub
+- Daftar di https://github.com/join dengan mengisi informasi yang diperlukan.
+
+### 3. Konfigurasi Git
+- Buka Git Bash atau terminal dan masukkan perintah berikut:
+'''bash
+git config --global user.name "(NamaPengguna)"'''
+'''bash
+git config --global user.email "(EmailAnda)"
+- Pastikan Anda mengganti NamaPengguna dan EmailAnda dengan informasi sesuai akun GitHub Anda.'''
 
 ## Create Repository
 
