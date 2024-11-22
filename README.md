@@ -57,6 +57,8 @@ clip < ~/.ssh/id_ed25519.pub
 
 d. Kembali ke GitHub, tempelkan key yang disalin ke kolom Key pada halaman New SSH Key.
 
+![Paste SSH Key](images/[6].png)
+
 ## Create Repository
 
 #### 1. Buat Repository di Github
@@ -66,10 +68,14 @@ https://github.com/new
 ```
 - Isi nama repository, pilih tipe (public/private), lalu klik Create Repository.
 
+![Create Repository](images/[7].png)
+
 #### 2. Hubungkan Repository dengan File Lokal
 
 - Setelah repository dibuat, salin tautan SSH dari repository dengan cara
 Klik tombol <b><i>Code > SSH > Salin URL</i></b>.
+
+![](images/[8].png)
 
 Anda dapat menghubungkan repository dengan dua cara:
 
@@ -94,7 +100,8 @@ git pull origin main
 
 b. Menggunakan Git Clone
 
-- Buka Git Bash di lokasi folder induk Anda.
+- Buka Git Bash di lokasi folder induk Anda dengan cara klik kanan di folder induk lalu <b><i>Open Git Bash here</i></b>.
+![Clone](images/[9].png)
 
 - Jalankan perintah berikut:
 
