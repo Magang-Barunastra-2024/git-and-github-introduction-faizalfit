@@ -75,7 +75,7 @@ https://github.com/new
 - Setelah repository dibuat, salin tautan SSH dari repository dengan cara
 Klik tombol <b><i>Code > SSH > Salin URL</i></b>.
 
-![](images/[8].png)
+![Copy](images/[8].png)
 
 Anda dapat menghubungkan repository dengan dua cara:
 
@@ -102,7 +102,7 @@ b. Menggunakan Git Clone
 
 - Buka Git Bash di lokasi folder induk Anda dengan cara klik kanan di folder induk lalu <b><i>Open Git Bash here</i></b>.
 
-<img src="images/[9].png" alt="Clone" width="300">
+![Clone](images/[9].png)
 
 - Jalankan perintah berikut:
 
