@@ -102,14 +102,17 @@ b. Menggunakan Git Clone
 
 - Buka Git Bash di lokasi folder induk Anda dengan cara klik kanan di folder induk lalu <b><i>Open Git Bash here</i></b>.
 
-![Clone](images/[9].png)
+![Git Bash Here](images/[9].png)
 
 - Jalankan perintah berikut:
 
 ```bash
 git clone [tautan-SSH]
 ```
-- Folder repository akan otomatis dibuat. Masuk ke folder tersebut, klik kanan, lalu buka Git Bash untuk melanjutkan.
+![Git Bash Here](images/[10].png)
+- Folder repository akan otomatis dibuat.
+![New Folder](images/[11].png)
+- Masuk ke folder tersebut, klik kanan, lalu buka Git Bash untuk melanjutkan.
 
 ## Push File from Local to Github
 ### 1. Tambahkan file yang diinginkan ke folder repository lokal.
