@@ -9,6 +9,9 @@
 ## Early Procedure
 ### 1. Install Git
 - Unduh Git melalui tautan berikut: https://git-scm.com/downloads.
+
+![Git Website](.images/[1].png)
+
 - Ikuti instruksi instalasi sesuai sistem operasi Anda (Windows, macOS, atau Linux).
 
 ### 2. Buat Akun GitHub
